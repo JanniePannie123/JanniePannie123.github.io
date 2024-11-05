@@ -3,12 +3,12 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #010DE8;
     color: #333;
 }
 
 header {
-    background: #ff6b6b;
+    background: #00EDFA;
     color: #ffffff;
     text-align: center;
     position: relative;
